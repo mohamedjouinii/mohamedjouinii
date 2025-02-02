@@ -17,30 +17,14 @@ Here are the programming languages, tools, and methodologies I’ve worked with:
 - **Frameworks**: Angular, Symfony, Android, Spring, SwiftUI, Storyboard, Node.js, Flutter, Next.js
 - **Databases**: MySQL, MongoDB
 - **Big Data & DevOps**: Vagrant, SonarQube, Nexus, Docker, Grafana, Prometheus
-- **Methodologies**: Agile (Scrum), CRISP-DM
-
-## 📚 Projects
-
-Here are a few highlights of my work:
-
-### [Movie Flow Platform] 🔗
-- **Description**: Developed a synchronized real-time streaming platform across web, mobile, and TV with features like voice chat and supplier integrations.
-- **Technologies**: Kotlin, Swift, Node.js, MongoDB, Firebase
-
-### [Wellness Plus] 🔗
-- **Description**: Designed a multi-platform app enabling doctor-patient interactions, pharmacy stock management, and personalized health tracking. Focused on developing cross-platform compatibility with Flutter and advanced backend integrations.
-- **Technologies**: Flutter, Dart, Node.js, SQLite
-
-### [Car Rental Management App] 🔗
-- **Description**: Developed a user-friendly car rental management app that simplifies car bookings, inventory management, and customer interactions. Integrated payment APIs and live tracking features.
-- **Technologies**: SwiftUI, Kotlin, Firebase
+- **Methodologies**: Agile (Scrum)
 
 ## 📫 Contact Me
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project:
 
 - 📧 Email: [mohamedjouini@example.com](mailto:jouinimohamed512@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/mohamedjouini]([https://linkedin.com/in/mohamedjouini](https://www.linkedin.com/in/mohamed-jouini-7839b6293/))
+- 💼 LinkedIn: ([https://linkedin.com/in/mohamedjouini](https://www.linkedin.com/in/mohamed-jouini-7839b6293/))
 - 📱 Phone: [+4917680732903](tel:+4917680732903)
 
 Thank you for visiting my GitHub profile! Have a great day! 😊
