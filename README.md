@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate Mobile Developer currently in the
 
 - 🎓 I’m in the final semester of my engineering studies at Esprit Engineering University and currently completing an exchange program in Mathematics and Computer Science at Philips-Universität Marburg, Germany.
 - 💼 I have extensive experience in mobile and full-stack development, having worked on projects involving cutting-edge technologies and modern development practices.
-- 🌱 I’m currently diving deeper into SwiftUI, Solidity, and advanced backend technologies like Node.js and Docker.
-- 💬 Ask me about mobile app development, full-stack engineering, or any of the projects I’ve worked on.
+- 🌱 I’m currently diving deeper into SwiftUI,Flutter,Kotlin,Java, Solidity, and advanced backend technologies like Node.js and Docker.
+- 💬 Ask me about mobile app development, full-stack engineering,or any of the projects I’ve worked on.
 
 ## 🛠️ Skills
 
