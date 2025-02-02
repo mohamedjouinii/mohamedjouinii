@@ -39,8 +39,8 @@ Here are a few highlights of my work:
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project:
 
-- 📧 Email: [mohamedjouini@example.com](mailto:mohamedjouini@example.com)
-- 💼 LinkedIn: [linkedin.com/in/mohamedjouini](https://linkedin.com/in/mohamedjouini)
-- 📱 Phone: [+4915257273359](tel:+4915257273359)
+- 📧 Email: [mohamedjouini@example.com](mailto:jouinimohamed512@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mohamedjouini]([https://linkedin.com/in/mohamedjouini](https://www.linkedin.com/in/mohamed-jouini-7839b6293/))
+- 📱 Phone: [+4917680732903](tel:+4917680732903)
 
 Thank you for visiting my GitHub profile! Have a great day! 😊
