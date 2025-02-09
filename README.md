@@ -23,7 +23,7 @@ Here are the programming languages, tools, and methodologies I’ve worked with:
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project:
 
-- 📧 Email: [mohamedjouini@example.com](mailto:jouinimohamed512@gmail.com)
+- 📧 Email: [jouinimohamed512@gmail.com](mailto:jouinimohamed512@gmail.com)
 - 💼 LinkedIn: ([https://linkedin.com/in/mohamedjouini](https://www.linkedin.com/in/mohamed-jouini-7839b6293/))
 - 📱 Phone: [+4917680732903](tel:+4917680732903)
 
