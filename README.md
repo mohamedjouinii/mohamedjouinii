@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Mohamed Jouini
 
-Welcome to my GitHub profile! I'm a passionate Mobile Developer currently in the final semester of my engineering studies at Esprit Engineering University. I specialize in creating impactful, user-focused applications and enjoy exploring new technologies to solve complex problems. Here's a bit about me:
+Welcome to my GitHub profile! I'm a passionate Software Developer currently in the final semester of my engineering studies at Esprit Engineering University. I specialize in creating impactful, user-focused applications and enjoy exploring new technologies to solve complex problems. Here's a bit about me:
 
 ## 🚀 About Me
 
