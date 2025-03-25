@@ -1,13 +1,16 @@
 # 👋 Hi there! I'm Mohamed Jouini
 
-Welcome to my GitHub profile! I'm a passionate Software Developer currently in the final semester of my engineering studies at Esprit Engineering University. I specialize in creating impactful, user-focused applications and enjoy exploring new technologies to solve complex problems. Here's a bit about me:
+I'm a passionate Software Developer currently pursuing my master's studies at Philipps University Marburg in Computer science, Germany. My strong engineering background stems from my studies at Esprit Engineering University, where I specialized in software development and gained hands-on experience in building scalable and efficient solutions. I thrive on exploring new technologies, solving complex problems, and contributing to innovative projects. 
+Here's a bit about me:
 
 ## 🚀 About Me
 
-- 🎓 I’m in the final semester of my engineering studies at Esprit Engineering University and currently completing an exchange program in Mathematics and Computer Science at Philips-Universität Marburg, Germany.
-- 💼 I have extensive experience in mobile and full-stack development, having worked on projects involving cutting-edge technologies and modern development practices.
-- 🌱 I’m currently diving deeper into SwiftUI,Flutter,Kotlin,Java, Solidity, and advanced backend technologies like Node.js and Docker.
-- 💬 Ask me about mobile app development, full-stack engineering,or any of the projects I’ve worked on.
+- 🎓 I'm pursuing my master's studies at Philipps University Marburg in Computer science .
+- 🎓 I’m in the final semester of my engineering studies at Esprit Engineering University . 
+- 💼 I have extensive experience in full-stack development, having worked on projects involving cutting-edge technologies and modern development practices.
+- 🏅 Certified in Java and Agile methodologies, with a foundation in DevOps practices.
+- 📝 Regular contributor to open source projects on GitHub, specializing in mobile and backend frameworks.
+
 
 ## 🛠️ Skills
 
@@ -19,12 +22,10 @@ Here are the programming languages, tools, and methodologies I’ve worked with:
 - **Big Data & DevOps**: Vagrant, SonarQube, Nexus, Docker, Grafana, Prometheus
 - **Methodologies**: Agile (Scrum)
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-Feel free to reach out if you have any questions or if you're interested in collaborating on a project:
-
-- 📧 Email: [jouinimohamed512@gmail.com](mailto:jouinimohamed512@gmail.com)
-- 💼 LinkedIn: ([https://linkedin.com/in/mohamedjouini](https://www.linkedin.com/in/mohamed-jouini-7839b6293/))
-- 📱 Phone: [+4917680732903](tel:+4917680732903)
-
+- 📧 [Email](mailto:jouinimohamed512@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-jouini-7839b6293/)
+- 📱 +4917680732903
+- 
 Thank you for visiting my GitHub profile! Have a great day! 😊
