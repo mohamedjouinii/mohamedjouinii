@@ -27,5 +27,5 @@ Here are the programming languages, tools, and methodologies I’ve worked with:
 - 📧 [Email](mailto:jouinimohamed512@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-jouini-7839b6293/)
 - 📱 +4917680732903
-- 
+
 Thank you for visiting my GitHub profile! Have a great day! 😊
